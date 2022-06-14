@@ -93,7 +93,7 @@ class Field {
     console.log(myField.print());
     console.log(myField.move());
   }
-}
+};
 
 const myField = new Field([
   ['*', '░', 'O'],
